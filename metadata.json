@@ -1,0 +1,8 @@
+{
+  "name": "KasirPintar UMKM",
+  "description": "Aplikasi Kasir Offline (POS) lengkap untuk UMKM, Apotik, dan Restoran dengan fitur laporan laba rugi, manajemen stok, dan berbagi laporan via WA/Telegram.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "waitForPreviousTools": true
+}
